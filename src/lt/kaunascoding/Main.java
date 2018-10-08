@@ -13,7 +13,7 @@ public class Main {
     public static final int MASYVO_ILGIS = 5;
 
     public static void main(String[] args) {
-        System.out.println("Įveskite " + MASYVO_ILGIS + " skaičius");
+        System.out.println("Įveskite " + MASYVO_ILGIS + " skaičius, ir tt");
         Scanner sc = new Scanner(System.in);
         int[] skaiciai = new int[MASYVO_ILGIS];
         int suma = 0;
